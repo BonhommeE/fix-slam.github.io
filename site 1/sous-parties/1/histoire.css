@@ -4,10 +4,10 @@ body {
 
 @font-face {
     font-family: 'Robot Heroes';
-    src: url('D:/site 1/immages-pour-css/fonts/robot-hero/Robot Heroes.woff');
+    src: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/fonts/robot-hero/Robot Heroes.woff');
 }
 body {
-    background-image: url('D:/site 1/immages-pour-css/background/immage-1.JPG');
+    background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/background/immage-1.JPG');
       background-size: cover;
       background-position: top;
       background-attachment: scroll;
@@ -26,7 +26,7 @@ body {
 }
 
 .boite4 {
-      background-image: url('D:/site 1/immages-pour-css/boites-icones/immage-boutonmenu.jpg');
+      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-boutonmenu.jpg');
       width: 150px;
       height: 100px;
       overflow: hidden;
@@ -53,7 +53,7 @@ body {
     .texte-histoire {
       width: 80vw;
       height: 45vh;
-      background-image: url('D:/site 1/immages-pour-css/boites-icones/immage-fondtexte.jpg');
+      background-image: url('makefafsbitethecurb161.github.io/site 1/immages-pour-css/boites-icones/immage-fondtexte.jpg');
       overflow: hidden;
       display: flex;
       flex-direction: column;
@@ -72,4 +72,5 @@ body {
       font-size: 1vw;
       text-shadow: 2px 2px 20px black;
       color: rgb(255, 255, 255);
+
     }
